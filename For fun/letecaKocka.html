@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Leteća Kocka</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("div").click(function(){
+                $("div").animate({
+                    left: (Math.floor(Math.random() * (screen.availWidth - 100)) + 1).toString() + 'px',
+                    top: (Math.floor(Math.random() * (screen.availHeight - 200)) + 1).toString() + 'px'
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+<div id="kocka" style="background:yellow;height:100px;width:100px;position:absolute;top:40%;left:45%"></div>
+</body>
+</html>
