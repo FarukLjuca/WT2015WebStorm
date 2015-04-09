@@ -17,7 +17,7 @@ $(document).ready(function(){
             document.getElementById("errorIme").innerHTML="Ime ne smije ostati prazno.";
             sveValidno = false;
         }
-        else if (!ime.value.match(/^[a-zA-Z ]+$/)) {
+        else if (!ime.value.match(/^[a-zA-Z ČčĆćŽžŠšĐđ]+$/)) {
             ime.style.backgroundColor="red";
             document.getElementById("errorIme").style.display="block";
             document.getElementById("errorIme").innerHTML="Ime mora sadrzavati samo slova.";
@@ -29,13 +29,13 @@ $(document).ready(function(){
         }
 
         // Validacija maila
-        if (ime.value.length == 0 ) {
-            ime.style.backgroundColor="red";
+        if (mail.value.length == 0 ) {
+            mail.style.backgroundColor="red";
             document.getElementById("errorMail").style.display="block";
             document.getElementById("errorMail").innerHTML="Mail ne smije ostati prazan.";
             sveValidno = false;
         }
-        else if (!mail.value.match(/^[a-z0-9]+@[a-z]+\.[a-z][a-z]+$/)) {
+        else if (!mail.value.match(/^[a-z0-9_]+@[a-z]+\.[a-z][a-z]+$/)) {
             mail.style.backgroundColor="red";
             document.getElementById("errorMail").style.display="block";
             document.getElementById("errorMail").innerHTML="Mail mora biti u tacnom formatu.";
