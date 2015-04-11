@@ -58,7 +58,7 @@ $(document).ready(function(){
         }
 
         if (true == sveValidno) {
-            posalji.type="submit";
+            posalji.type = "submit";
         }
     });
 });
