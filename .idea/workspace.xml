@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6adf2fb1-4920-4e09-8033-1244b7f4894c" name="Default" comment="Dodao promjenu4">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tutorijal 5/wt-t5z4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tutorijal 5/wt-t5z4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tutorijal 5/wt-t5z4.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Milenijum-Soft/Kontakt.html" afterPath="$PROJECT_DIR$/Milenijum-Soft/Kontakt.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Milenijum-Soft/skripte/KontaktForma.js" afterPath="$PROJECT_DIR$/Milenijum-Soft/skripte/KontaktForma.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Milenijum-Soft/ostalo/stil.css" afterPath="$PROJECT_DIR$/Milenijum-Soft/ostalo/stil.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorijal 5/wt-t5z3.js" afterPath="$PROJECT_DIR$/Tutorijal 5/wt-t5z3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorijal 5/wt-t5z4.css" afterPath="$PROJECT_DIR$/Tutorijal 5/wt-t5z4.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorijal 5/wt-t5z4.html" afterPath="$PROJECT_DIR$/Tutorijal 5/wt-t5z4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorijal 5/wt-t5z4.js" afterPath="$PROJECT_DIR$/Tutorijal 5/wt-t5z4.js" />
     </list>
     <ignored path="WT2015.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,42 +34,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wt-t5z4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tutorijal 5/wt-t5z4.html">
+      <file leaf-file-name="Kontakt.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Milenijum-Soft/Kontakt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.346154" vertical-offset="682" max-vertical-offset="2159">
-              <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.21794872" vertical-offset="561" max-vertical-offset="2499">
+              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wt-t5z4.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tutorijal 5/wt-t5z4.css">
+      <file leaf-file-name="KontaktForma.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Milenijum-Soft/skripte/KontaktForma.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="367" max-vertical-offset="1615">
+              <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wt-t5z4.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tutorijal 5/wt-t5z4.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10858144" vertical-offset="822" max-vertical-offset="1938">
-              <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
-              <folding>
-                <marker date="1428907696397" expanded="true" signature="684:741" placeholder="..." />
-                <marker date="1428907696397" expanded="true" signature="804:861" placeholder="..." />
-                <marker date="1428907696397" expanded="true" signature="929:986" placeholder="..." />
-                <marker date="1428907696397" expanded="true" signature="1050:1107" placeholder="..." />
-                <marker date="1428907696397" expanded="true" signature="1175:1232" placeholder="..." />
-                <marker date="1428907696397" expanded="true" signature="1302:1359" placeholder="..." />
-                <marker date="1428907696397" expanded="true" signature="1426:1483" placeholder="..." />
-                <marker date="1428907696397" expanded="true" signature="1549:1606" placeholder="..." />
-                <marker date="1428907696397" expanded="true" signature="1672:1729" placeholder="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -129,12 +107,12 @@
         <option value="$PROJECT_DIR$/Milenijum-Soft/Proizvodi.html" />
         <option value="$PROJECT_DIR$/Milenijum-Soft/Reference.html" />
         <option value="$PROJECT_DIR$/Tutorijal 5/wt-t5z3.js" />
+        <option value="$PROJECT_DIR$/Milenijum-Soft/ostalo/stil.css" />
         <option value="$PROJECT_DIR$/Tutorijal 5/wt-t5z4.css" />
         <option value="$PROJECT_DIR$/Tutorijal 5/wt-t5z4.html" />
         <option value="$PROJECT_DIR$/Tutorijal 5/wt-t5z4.js" />
-        <option value="$PROJECT_DIR$/Milenijum-Soft/ostalo/stil.css" />
-        <option value="$PROJECT_DIR$/Milenijum-Soft/Kontakt.html" />
         <option value="$PROJECT_DIR$/Milenijum-Soft/skripte/KontaktForma.js" />
+        <option value="$PROJECT_DIR$/Milenijum-Soft/Kontakt.html" />
       </list>
     </option>
   </component>
@@ -206,8 +184,18 @@
               <option name="myItemId" value="WT2015WebStorm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tutorijal 5" />
+              <option name="myItemId" value="WT2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WT2015WebStorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Milenijum-Soft" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -218,6 +206,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WT2015WebStorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Milenijum-Soft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skripte" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WT2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WT2015WebStorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Milenijum-Soft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ostalo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -273,10 +287,14 @@
       <ConfigurationWrapper RunnerId="debuggableProgram" />
       <method />
     </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -284,10 +302,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -392,14 +406,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -417,9 +431,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19717261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -704,7 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2972028" vertical-offset="0" max-vertical-offset="731">
           <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,19 +742,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Milenijum-Soft/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075" vertical-offset="68" max-vertical-offset="1785">
-          <caret line="15" column="78" selection-start-line="0" selection-start-column="0" selection-end-line="99" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Milenijum-Soft/O nama.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="12.423077" vertical-offset="646" max-vertical-offset="1360">
           <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,27 +757,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Milenijum-Soft/ostalo/stil.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18664384" vertical-offset="4362" max-vertical-offset="6834">
-          <caret line="263" column="16" selection-start-line="263" selection-start-column="16" selection-end-line="263" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Milenijum-Soft/Reference.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.230769" vertical-offset="102" max-vertical-offset="2210">
           <caret line="14" column="49" selection-start-line="0" selection-start-column="0" selection-end-line="124" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Milenijum-Soft/Kontakt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693" vertical-offset="1734" max-vertical-offset="2499">
-          <caret line="117" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="141" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,49 +768,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.32020548" vertical-offset="0" max-vertical-offset="584">
           <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Milenijum-Soft/skripte/KontaktForma.js">
+    <entry file="file://$PROJECT_DIR$/Tutorijal 5/wt-t5z4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12671232" vertical-offset="793" max-vertical-offset="1428">
-          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="2108">
+          <caret line="98" column="31" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tutorijal 5/wt-t5z4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tutorijal 5/wt-t5z4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.346154" vertical-offset="682" max-vertical-offset="2159">
-          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tutorijal 5/wt-t5z4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10858144" vertical-offset="822" max-vertical-offset="1938">
-          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.68356645" vertical-offset="3162" max-vertical-offset="4029">
+          <caret line="209" column="50" selection-start-line="209" selection-start-column="50" selection-end-line="209" selection-end-column="50" />
           <folding>
-            <marker date="1428907696397" expanded="true" signature="684:741" placeholder="..." />
-            <marker date="1428907696397" expanded="true" signature="804:861" placeholder="..." />
-            <marker date="1428907696397" expanded="true" signature="929:986" placeholder="..." />
-            <marker date="1428907696397" expanded="true" signature="1050:1107" placeholder="..." />
-            <marker date="1428907696397" expanded="true" signature="1175:1232" placeholder="..." />
-            <marker date="1428907696397" expanded="true" signature="1302:1359" placeholder="..." />
-            <marker date="1428907696397" expanded="true" signature="1426:1483" placeholder="..." />
-            <marker date="1428907696397" expanded="true" signature="1549:1606" placeholder="..." />
-            <marker date="1428907696397" expanded="true" signature="1672:1729" placeholder="..." />
+            <marker date="1429001036809" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429001036809" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429001036809" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429001036809" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429001036809" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429001036809" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429001036809" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429001036809" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429001036809" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Milenijum-Soft/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="68" max-vertical-offset="1785">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Milenijum-Soft/ostalo/stil.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4362" max-vertical-offset="6834">
+          <caret line="263" column="16" selection-start-line="263" selection-start-column="16" selection-end-line="263" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Milenijum-Soft/skripte/KontaktForma.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="367" max-vertical-offset="1615">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Milenijum-Soft/Kontakt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21794872" vertical-offset="561" max-vertical-offset="2499">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -19,10 +19,6 @@
     <div id="dodavanje">
         <table>
             <tr>
-                <td>Id:</td>
-                <td><input type="text" id="idDodavanje"></td>
-            </tr>
-            <tr>
                 <td>Predmet:</td>
                 <td><input type="text" id="predmetDodavanje"></td>
             </tr>
@@ -63,7 +59,7 @@
         <table>
             <tr>
                 <td>Id:</td>
-                <td><select id="idPromjena"></select></td>
+                <td><select id="idPromjena" onchange="promjenaPromjene()"></select></td>
             </tr>
             <tr>
                 <td>Predmet:</td>
@@ -115,6 +111,7 @@
         </table>
 
         <button id="obrisi" onclick="obrisi()">OK</button>
+        <span id="errorObrisi"></span>
     </div>
 </div>
 <script src="wt-t5z4.js"></script>

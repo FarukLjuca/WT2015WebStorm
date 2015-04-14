@@ -24,3 +24,7 @@ button#dodaj, button#promjeni, button#obrisi {
     background-color: blue;
     color: white;
 }
+
+select#idBrisanje, select#idPromjena {
+    width: 70px;
+}
