@@ -88,10 +88,6 @@ li#indexRezervacijePodmeni > ul > li > a {
     margin-left: auto;
     margin-right: auto;
 }
-img {
-    width: 100%;
-    height: 400px;
-}
 .korak {
     height: 180px;
     width: 180px;
@@ -124,6 +120,7 @@ img {
 nav {
     float: left;
     margin-top: 20px;
+    width: 960px;
 }
 nav > ul > li {
     display: inline;
@@ -132,7 +129,7 @@ nav > ul > li {
 }
 nav > ul > li > a {
     display: block;
-    width: 100px;
+    width: 170px;
     height: 25px;
     text-align: center;
     text-decoration: none;
@@ -150,29 +147,47 @@ nav > ul > li > a:hover {
     border-bottom-style: solid;
     margin-bottom: 5px;
 }
+nav ul li ul li {
+    width: 170px;
+    height: 30px;
+    padding: 15px 0 0 0;
+    margin: 5px 0;
+    background-color: #0193B7;
+    text-align: center;
+}
+nav ul li ul li a {
+    text-decoration: none;
+    color:white;
+}
+nav ul li ul {
+    display: none;
+}
+nav ul li:hover ul {
+    display: block;
+    position: relative;
+}
 #opis {
     float: left;
     width: 100%;
 }
-#login {
+
+/***   Logo   ***/
+@import url(http://fonts.googleapis.com/css?family=Luckiest+Guy);
+div#logo > img {
+    height: 100px;
+    width: 100px;
+}
+div#logo > span {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 30px;
+    position: relative;
+    top: -30px;
+}
+div#logo {
+    float: left;
+}
+div#login {
     float: right;
-    color: white;
-    background-color: #0193B7;
     padding: 5px;
     margin-top: 5px;
-}
-#rezervacije {
-    position: relative;
-    top:120px;
-    left: 100px;
-    float: none;
-}
-#rezervacije > ul >li {
-    text-align: center;
-    width: 120px;
-    padding: 5px;
-    float: none;
-    background-color: #0193B7;
-    color: white;
-    border-bottom: 3px solid black;
 }

@@ -1,3 +1,5 @@
-$("#indexRezervacijeMeni").click(function(){
+/*
+$("#indexRezervacijeMeni").hover(function(){
     $("#indexRezervacijePodmeni").slideToggle("slow");
 });
+*/
